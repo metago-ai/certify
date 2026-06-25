@@ -1,6 +1,6 @@
 {
   "name": "@metago-ai/certify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MetaGO Certify - 技能认证体系，让第三方技能通过认证测试获得 MetaGO 认证标记",
   "main": "src/index.js",
   "bin": {
