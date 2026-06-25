@@ -1,0 +1,44 @@
+{
+  "name": "@metago-ai/certify",
+  "version": "1.0.0",
+  "description": "MetaGO Certify - 技能认证体系，让第三方技能通过认证测试获得 MetaGO 认证标记",
+  "main": "src/index.js",
+  "bin": {
+    "certify": "bin/certify.js"
+  },
+  "scripts": {
+    "start": "node bin/certify.js",
+    "version:check": "node bin/certify.js --version",
+    "check": "node bin/certify.js check",
+    "list": "node bin/certify.js list",
+    "help": "node bin/certify.js help"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [
+    "metago",
+    "certify",
+    "skill",
+    "quality",
+    "certification",
+    "lifeform",
+    "skill-mark"
+  ],
+  "author": "MetaGO Lightyear",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/metago/certify.git"
+  },
+  "homepage": "https://gitee.com/metago/certify",
+  "bugs": {
+    "url": "https://gitee.com/metago/certify/issues"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
+}
