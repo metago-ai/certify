@@ -1,4 +1,4 @@
-# MetaGO Certify
+﻿# MetaGO Certify
 
 > 技能认证体系 —— 让第三方技能通过认证测试获得 "MetaGO Certified" 标记
 
@@ -200,7 +200,7 @@ certify help              # 等价于 certify --help
 ## 项目结构
 
 ```
-metago-certify/
+certify/
 ├── package.json
 ├── README.md
 ├── LICENSE                # MIT
@@ -255,7 +255,7 @@ MetaGO Certify 属于产品矩阵 **D 线（生态基础设施）**，是"生态
 | **B 平台工具** | MetaGO MCP Server | MCP 协议包 | 22 项能力封装为 MCP 工具 | ✅ |
 | | MetaGO CLI | 命令行工具 | 跨平台 CLI 调用元构能力 | 📋 |
 | | MetaGO Studio | 桌面/Web 应用 | 可视化技能编排与调试 | 📋 |
-| **C 终端用户产品** | MetaGO Copilot | 桌面助手 | 内置元构能力的桌面 AI 助手 | 📋 |
+| **C 终端用户产品** | MetaGO Copilot | 桌面助手 | 内置元构能力的桌面智能体 | 📋 |
 | | MetaGO Chat | Web 对话产品 | 基于元构生命体的对话产品 | 📋 |
 | | MetaGO Agent Cloud | 云端智能体 | 托管式元构智能体云服务 | 📋 |
 | **D 生态基础设施** | MetaGO Skills SDK | npm/Python 包 | 技能开发框架（第三方编写 SKILL.md） | 📋 |
@@ -282,6 +282,8 @@ Certify 是 Skills Hub 的**准入闸门**：所有上架技能必须通过 Cert
 - **产品需求文档**：[MetaGO PRD](https://gitee.com/metago/metagolifeform/blob/main/docs/PRD.md)
 - **架构文档**：[MetaGO Architecture](https://gitee.com/metago/metagolifeform/blob/main/docs/ARCHITECTURE.md)
 - **生态主页**：https://gitee.com/metago/metagolifeform
+- **GitHub 主仓库**：https://github.com/metago-ai/metagolifeform
+- **官方网站**：https://metago-d6gfw1e4rf2a5bcad-1257074864.tcloudbaseapp.com/
 
 Certify 对应战略规划中 **D 线 · 第 4 阶段（生态阶段）** 的"认证服务"产品位。
 
