@@ -4,7 +4,7 @@
 
 - 操作系统：
 - Node.js 版本：
-- MetaGO Certify 版本：1.0.0
+- MetaGO Certify 版本：1.0.1
 - 安装方式（npm / git clone）：
 
 ## 问题描述
