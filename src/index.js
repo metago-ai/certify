@@ -1,4 +1,4 @@
-'use strict';
+﻿'use strict';
 
 /**
  * MetaGO Certify 主入口
